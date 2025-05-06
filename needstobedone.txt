@@ -1,0 +1,15 @@
+make navabar translucsent so on scrooll looks sick done
+
+
+
+
+
+create a success .php 
+
+header("Location: ../success.php"); 
+
+in  api/upload_property.php need to fix it 
+
+
+
+int he paperwork ai info page uipdate and mention to get paperwork draft talk tot the ai assistant and ask it to creat you wone and make sue to giove setails about shit like depeosti perc and other property info u wan int he thing 
